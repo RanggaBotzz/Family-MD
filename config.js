@@ -39,7 +39,7 @@ global.urlnya = "https://www.instagram.com/rangga_story_wa"
 
 //============= callButtons =============//
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '+62 813-2017-0984'
+global.phn = '+62 857-7915-0501'
 
 //============= Games ================//
 global.benar = '_*Benar✅*_'
